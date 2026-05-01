@@ -1,4 +1,4 @@
-# 💰 AI Smart Expense Tracker(LaDu
+# 💰 AI Smart Expense Tracker(LaDu)
 
 A smart AI-powered expense tracking application built with **React + Vite**, designed to make managing personal finances as simple as speaking or scanning receipts.
 
